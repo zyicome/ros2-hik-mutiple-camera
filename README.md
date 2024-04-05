@@ -1,2 +1,14 @@
-# ros2-hik-mutiple-camera
-ros2的双海康相机的驱动
+# ros2_hik_camera
+
+A ROS2 packge for Hikvision USB3.0 industrial camera
+
+## Usage
+
+```
+ros2 launch hik_camera hik_camera.launch.py
+```
+
+## Params
+
+- exposure_time
+- gain
