@@ -10,5 +10,7 @@ ros2 launch hik_camera hik_camera.launch.py
 
 ## Params
 
-- exposure_time
-- gain
+- left_exposure_time
+- left_gain
+- right_exposure_time
+- right_gain
